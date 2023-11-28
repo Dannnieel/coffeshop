@@ -1,0 +1,25 @@
+venv/
+.vscode/
+__pycache__/
+__pycache_/
+test.db
+node_modules__/
+node_modules_/
+node_modules/
+coffe_shop/
+coffe_shop__/
+coffe_shop_/
+coffe_shop/
+
+.idea
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
